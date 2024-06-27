@@ -8,6 +8,7 @@ import { useState } from "react";
 // app is acting as the container here 
 //components are <CakeForm etc> and the prop is what is on the LHS of = and the data is on the RHS
 //containers like app.jsx can send props (state/funcionality) down to components but components can't do it the other way
+// app.jsx is the container here 
 
 
 function App() {

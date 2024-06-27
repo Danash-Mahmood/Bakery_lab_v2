@@ -41,6 +41,8 @@ const Search = ({cakes,setCakes,cakesStatic}) => {
 
         {/* // on change is when something is typed into a text input or select something from a dropdown  */}
             <input type="submit" />
+            {/* on submit and buttons value = will rename the button */}
+            {/* value = will save previous inputs that you can pre populate from. i.e. save previous searches that you can see in a drop down  */}
         </form>
     )
 
